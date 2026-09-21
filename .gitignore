@@ -1,0 +1,8 @@
+# Ignorar as credenciais reais
+arduino_secrets.h
+
+# Ignorar arquivos temporários de compilação da Arduino IDE
+build/
+*.bin
+*.elf
+*.hex
